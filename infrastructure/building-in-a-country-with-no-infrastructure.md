@@ -1,6 +1,11 @@
+# Building in a Country With No Infrastructure
 
+Originally published on Medium:  
+https://medium.com/@laythayache5/building-in-a-country-with-no-infrastructure-3f8595472895
 
-
+Author: Layth Ayache  
+Project: OmniSign  
+Date: 2026-2-15
 
 I’m sure we’re all familiar with the phrase “lack of infrastructure” in Lebanon. We repeat it casually — about electricity, about the internet, about public systems — until it becomes background noise.
 
